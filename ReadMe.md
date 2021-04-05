@@ -1,4 +1,4 @@
-# Data Flow Stream
+# String-format
 > @DEPRIATED use @zodash/format instead of
 
 ### What & Why ?
