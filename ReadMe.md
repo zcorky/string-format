@@ -1,4 +1,5 @@
 # Data Flow Stream
+> @DEPRIATED use @zodash/format instead of
 
 ### What & Why ?
 * Like python format, I need format for js.
